@@ -797,9 +797,10 @@ Windows.Engine:DerivedDataBackendGraph_Fill_Seattle:EnginePak:0=(Type=ReadPak, F
 Windows.Engine:InstalledDerivedDataBackendGraph:MinimumDaysToKeepFile:0=7
 Windows.Engine:InstalledDerivedDataBackendGraph:Root:0=(Type=KeyLength, Length=120, Inner=AsyncPut)
 Windows.Engine:InstalledDerivedDataBackendGraph:AsyncPut:0=(Type=AsyncPut, Inner=Hierarchy)
-Windows.Engine:InstalledDerivedDataBackendGraph:Hierarchy:0=(Type=Hierarchical, Inner=Boot, Inner=Pak, Inner=CompressedPak, Inner=EnginePak, Inner=Local)
+Windows.Engine:InstalledDerivedDataBackendGraph:Hierarchy:0=(Type=Hierarchical, Inner=Boot, Inner=Pak, Inner=CompressedPak, Inner=EnginePak, Inner=Local, Inner=Shared)
 Windows.Engine:InstalledDerivedDataBackendGraph:Boot:0=(Type=Boot, Filename="%ENGINEUSERDIR%DerivedDataCache/Boot.ddc", MaxCacheSize=512)
 Windows.Engine:InstalledDerivedDataBackendGraph:Local:0=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path="%ENGINEVERSIONAGNOSTICUSERDIR%DerivedDataCache", EditorOverrideSetting=LocalDerivedDataCache)
+Windows.Engine:InstalledDerivedDataBackendGraph:Shared:0=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=true, UnusedFileAge=10, FoldersToClean=10, MaxFileChecksPerSec=1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath, EditorOverrideSetting=SharedDerivedDataCache)
 Windows.Engine:InstalledDerivedDataBackendGraph:Pak:0=(Type=ReadPak, Filename="%GAMEDIR%DerivedDataCache/DDC.ddp")
 Windows.Engine:InstalledDerivedDataBackendGraph:CompressedPak:0=(Type=ReadPak, Filename="%GAMEDIR%DerivedDataCache/Compressed.ddp", Compressed=true)
 Windows.Engine:InstalledDerivedDataBackendGraph:EnginePak:0=(Type=ReadPak, Filename=../../../Engine/DerivedDataCache/Compressed.ddp, Compressed=true)
@@ -3422,7 +3423,7 @@ Dev-AnimPhys:29E575DDE0A346279D10D276232CDCEA=16
 Dev-ReflectionCapture:6B266CEC1EC74B8FA30BE4D90942FC07=1
 Dev-Automation:0DF73D61A23F47EAB72789E90C41499A=1
 ShaderCacheVersion:B954F018C9624DD6A74E79B18EA113C2=16
-ShaderCacheGameVersion:03D4EB48B50B4CC3A598DE415C6CC993=3989454
+ShaderCacheGameVersion:03D4EB48B50B4CC3A598DE415C6CC993=4033788
 FoliageVer:430C4D197154497087699B69DF90B0E5=11
 ProceduralFoliageVer:AAFE32BD53954C14B66A5E251032D1DD=1
 AssetRegistry:717F9EE7E9B0493A88B391321B388107=5

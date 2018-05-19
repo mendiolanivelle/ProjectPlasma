@@ -24,11 +24,11 @@
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
 /D_HAS_EXCEPTIONS=0
-/I C:\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups
-/Yc"C:\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.h"
-/Fp"C:\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.h.pch"
-"C:\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.cpp"
-/Fo"C:\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.h.obj"
+/I C:\Users\NIVELLEMENDIOLA-PC\Documents\GitHub\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups
+/Yc"C:\Users\NIVELLEMENDIOLA-PC\Documents\GitHub\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.h"
+/Fp"C:\Users\NIVELLEMENDIOLA-PC\Documents\GitHub\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.h.pch"
+"C:\Users\NIVELLEMENDIOLA-PC\Documents\GitHub\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.cpp"
+/Fo"C:\Users\NIVELLEMENDIOLA-PC\Documents\GitHub\prototype\Intermediate\Build\Win32\prototype\Shipping\UELinkerFixups\PCH.UELinkerFixups.h.obj"
 /TP
 /GR-
 /W4

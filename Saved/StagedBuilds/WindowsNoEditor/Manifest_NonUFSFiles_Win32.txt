@@ -1,4 +1,4 @@
-prototype/Binaries/Win32/prototype-Win32-Shipping.exe	2018-05-08T18:12:35.543Z
+prototype/Binaries/Win32/prototype-Win32-Shipping.exe	2018-05-19T14:59:18.762Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x86.exe	2018-04-27T20:04:17.435Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win32/OVRPlugin.dll	2018-04-27T19:50:52.731Z
 Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/PxFoundation_x86.dll	2018-04-27T19:51:25.022Z
@@ -15,4 +15,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbis.dll	2018-04-27T19:51:34
 Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbisfile.dll	2018-04-27T19:51:34.941Z
 Engine/Binaries/ThirdParty/PhysX3/Win32/VS2015/APEX_Destructible_x86.dll	2018-04-27T19:51:24.171Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/Win32/openvr_api.dll	2018-04-27T19:50:56.737Z
-prototype.exe	2018-05-13T04:33:38.987Z
+prototype.exe	2018-05-19T15:00:50.458Z

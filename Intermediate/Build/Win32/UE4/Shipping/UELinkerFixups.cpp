@@ -111,7 +111,7 @@
 	#define UE_BUILD_SHIPPING 1
 #endif
 #ifndef UE_ENGINE_DIRECTORY
-	#define UE_ENGINE_DIRECTORY ../../../Program Files/Epic Games/UE_4.19/Engine/
+	#define UE_ENGINE_DIRECTORY ../../../../../../../Program Files/Epic Games/UE_4.19/Engine/
 #endif
 #ifndef UE_IS_ENGINE_MODULE
 	#define UE_IS_ENGINE_MODULE 0
